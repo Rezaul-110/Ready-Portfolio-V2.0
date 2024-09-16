@@ -1,0 +1,285 @@
+@media screen and (max-width: 1199.98px){
+.carousel-item img{
+ 	height: auto;
+}
+.banner_person_content{
+    top: 34.5%;
+}
+.sub-form input{
+	width: 180px;
+}
+
+}
+
+@media screen and (max-width: 991.98px){
+
+.sticky-header:before{
+	display: none;
+}
+
+.col-foot{
+	margin-bottom: 30px;
+}
+.col-foot2{
+	justify-content: center;
+}
+.main-menu{
+	display: none;
+}
+.mobile-menu{
+  display: block;
+}
+.mobile{
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	display: inline-block;
+	height: 61px;
+}
+.mobile .header{
+	background-color: #3e7e80;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+.menu-toggle{
+	display: inline-block;
+}
+.line{
+	width: 30px;
+	height: 2px;
+	margin: 10px 0;
+	background-color: #ffffff;
+}
+.mobile-nav ul{
+	margin-right: 0px;
+    height: 500px;
+    max-height: 300px;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.menu-toggle:hover{
+	cursor: pointer;
+}
+
+.mobile-nav ul{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.mobile-menu .mobile-nav{
+	background-color: #ffffff;
+	width: 100%;
+	transform: translate(-100%, 0);
+	-webkit-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.banner_person_content {
+    padding-top: 60px;
+}
+
+.mobile-nav h2{
+	padding: 25px 20px;
+}
+
+.mobile-menu .mobile-nav li a{
+	color: #626262;
+	display: block;
+	padding: 15px 20px;
+}
+
+.mobile-menu .mobile-nav li a:hover{
+	background-color: #626262;
+    color: #fff;
+    border-left: 3px solid #3e7e80;
+}
+.carousel-item img{
+	height: auto;
+}
+.banner_text {
+    margin-top: 0px; 
+}
+.banner_text h2{
+    font-size: 44px;
+}
+.banner_person_content {
+    top: 24.5%;
+}
+.col-about{
+	margin-bottom: 30px;
+}
+.col-port{
+	margin-bottom: 30px;
+}
+.contact_map{
+	padding: 60px 0px;
+}
+.contact-from {
+    padding: 30px;
+}
+.col-about {
+	margin-bottom: 80px;
+}
+#about_section {
+    padding: 80px 0px;
+}
+section {
+    padding: 60px 0px 60px;
+}
+.section-title{
+	padding: 0px 0px;
+}
+.col-con{
+	margin-bottom: 30px;
+}
+.col-foot{
+	margin-bottom: 30px;
+}
+.wow{
+    animation-name: none !important;
+    visibility: visible !important;
+}
+
+}
+
+@media screen and (max-width: 768.98px){
+.carousel-item img{
+	height: 100vh;
+}
+.banner_person_content {
+    padding-top: 160px;
+}
+.banner_text{
+	margin-bottom: 30px;
+}
+.banner_person_img img{
+	width: 74%;
+}
+.section-title{
+	padding: 0px 0px;
+}
+.gallery-img img{
+   width: 100%;
+}
+.col-foot{
+	justify-content: center;
+}
+.footer-logo:before{
+	display: none;
+}
+.portfolio-content .imgs img{
+	width: 100%;
+}
+.footer-menu-list{
+	display: none;
+}
+.sub-form{
+	width: 65%;
+}
+.sub-form input{
+	display: block;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.sub-form button{
+	width: 100%;
+}
+
+
+}
+
+@media screen and (max-width: 601.98px){
+.banner_person_content {
+    top: 29.5%;
+}
+
+}
+
+@media screen and (max-width: 575.98px){
+.banner_person_content {
+    top: 31.5%;
+}
+.banner_text p{
+	font-size: 14px;
+}
+.contact_me_content h2{
+	line-height: 1.2em;
+	font-size: 38px;
+}
+p{
+	font-size: 14px;
+}
+.section-title span{
+	font-size: 70px;
+}
+
+}
+
+@media screen and (max-width: 481.98px){
+.banner_person_content {
+    top: 35.5%;
+}
+}
+
+@media screen and (max-width: 414.98px){
+.banner_person_img img {
+    width: 85%;
+}
+.banner_text h2 {
+    font-size: 41px;
+}
+.banner_person_content {
+    top: 36.5%;
+}
+.banner_text h1{
+	font-size: 26px;
+}
+.banner_text h1 span{
+	font-size: 26px;
+}
+.social-icon ul li{
+    width: 40px;
+    height: 40px;
+    padding: 9px 12px;
+}
+.social-icon ul li a i{
+	font-size: 20px;
+}
+
+}
+
+@media screen and (max-width: 384.98px){
+.banner_person_img img {
+    width: 92%;
+}
+}
+
+@media screen and (max-width: 367.98px){
+.banner_person_img img {
+    width: 100%;
+}
+.banner_person_content {
+    top: 37.5%;
+}
+.banner_text h2 {
+    font-size: 38px;
+}
+}
+
+@media screen and (max-width: 340.98px){
+.banner_text h2 {
+    font-size: 34px;
+}
+.sub-form input {
+    width: 165px;
+}
+}
+
+@media screen and (max-width: 322.98px){
+.sub-form input {
+    width: 150px;
+}
+}
